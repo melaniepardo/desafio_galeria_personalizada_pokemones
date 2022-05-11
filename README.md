@@ -1,8 +1,6 @@
 # Desafio galería personalizada pokemones📋
 ## Descripción proyecto
-Proyecto que le permite a los usuarios htps://pokeapi.co/ resolver un problema con la gestión de su información que solamente nos entrega el nombre y la dirección de cada pokemon, por lo que este desafio consiste en desarrollen la lógica en el lado del servidor con Node
-que procese su data de los endpoints que ya disponen y devuelvan un endpoint final con
-toda la información correspondiente a los pokemones
+Proyecto que le permite a los usuarios  de https://pokeapi.co/ resolver un problema con la gestión de su información que solamente nos entrega el nombre y la dirección para cada pokemon, por lo que este desafio consiste en desarrollar la lógica en el lado del servidor con Node que procese su data de los endpoints que ya se disponen y devuelvan un endpoint final con toda la información correspondiente a los pokemones.
 
 ## Contenidos aplicados 📖
 - La asincronía
